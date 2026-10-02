@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+$basetexture "vgui\maps\c6m1_riverbank"
+$translucent 1
+$ignorez 1
+$vertexcolor 1
+$vertexalpha 1
+}
